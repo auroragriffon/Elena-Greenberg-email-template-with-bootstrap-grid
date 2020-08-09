@@ -1,0 +1,168 @@
+
+
+.no-marg.no-marg{
+  margin: 0px;
+}
+
+.no-pad.no-pad{
+  padding: 0px;
+}
+
+
+.container-fluid{
+  height:100%;
+  
+}
+
+
+
+.compose-section {
+
+    background-color:hsla(26, 5%, 29%, 0.904);
+    
+    color:white;
+    text-align: center;
+    display: block;
+    padding-bottom: 20px;
+    padding-top: 25px;
+
+}
+  
+
+  
+  .search-section {
+    
+    background-color: rgba(211, 211, 211, 0.904);
+    padding-top: 20px;
+    padding-bottom: 20px;
+    
+    
+  }
+
+
+  .search-field{
+    margin-bottom: 30px;
+  }
+
+
+
+  .email-section {
+    background-color: rgba(241, 241, 241, 0.904);
+    padding-top: 20px;
+    padding-bottom:30px;
+    
+    
+    
+  }
+
+  .email-text{
+    padding-top:10px;
+    padding-left:50px;
+    padding-right:30px;
+    padding-bottom:50px;
+    background-color: transparent;
+    color:gray;
+    margin-bottom:50px;
+  }
+
+  .to-from{
+    text-align: left;
+    font-size: small;
+    
+  }
+
+  .h2{
+    color:black;
+    
+  }
+
+  .text-box-wrapper{
+    padding-top:10px;
+    padding-left:50px;
+    padding-right:30px;
+    padding-bottom:10px;
+  }
+
+  
+
+
+  .myButton.myButton{
+  background-color:#f2a427;
+	border-radius:6px;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:15px;
+	font-weight:bold;
+  padding:10px 40px;
+  text-align: center;
+  text-decoration:none;
+  margin-bottom: 20px;
+  
+  }
+
+  
+ 
+.stacking-col-div{
+height: 100%;
+
+}
+  .compose-links{
+    color:white;
+    display: block;
+    line-height: 2.5em;
+    padding-left: 20px;
+    text-align: left;
+  }
+
+  
+  .fa-user-circle{
+    padding-right:10px;
+  }
+
+
+ .first-box{
+   background-color:transparent;
+   padding:20px;
+   width:100%;
+   border-radius: 10px;
+   
+   }
+
+   .second-box{
+    background-color:white;
+    padding:20px;
+    margin-bottom: 20px;
+    width:100%;
+    border-radius: 5px;
+    box-shadow: 5px 5px 5px 0px rgba(0,0,0,0.15);
+    }
+
+    
+    .third-box{
+      background-color:transparent;
+      padding:20px;
+      width:100%;
+      border-radius: 10px;
+      margin-bottom: 20px;
+      }
+
+
+
+
+ .search-section-box.search-section-box{
+   color:gray;
+   text-decoration: none;
+   
+ }
+
+ .date-time{
+   text-align: right;
+ }
+
+ .quotes{
+   padding-top:5px;
+ }
+
+ 
